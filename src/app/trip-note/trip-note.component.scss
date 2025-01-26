@@ -1,0 +1,36 @@
+//inspector styles - for trying different styles without comitment
+.example-card {
+  max-width: 400px;
+  color: pink;
+  border-style: dashed;
+  border-color: pink;
+  border-width: 2px;
+}
+
+.example-header-image {
+  background-image: url("https://material.angular.io/assets/img/examples/shiba1.jpg");
+  background-size: cover;
+  border-style: dotted;
+  border-width: 2px;
+}
+
+.star-rating {
+  display: flex;
+  align-items: center;
+}
+
+.star-rating mat-icon {
+  color: gold;
+}
+
+ul{
+  display:flex;
+  gap:20px;
+}
+
+button {
+  background: pink;
+  border-radius: 50px;
+}
+
+

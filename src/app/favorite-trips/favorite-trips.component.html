@@ -1,0 +1,7 @@
+@for (tripNote of favoriteTripNotes; track tripNote.title){
+<app-trip-note [tripNote]="tripNote"></app-trip-note>
+}
+
+<button mat-icon-button routerLink="">
+  <mat-icon>favorite</mat-icon>
+</button>

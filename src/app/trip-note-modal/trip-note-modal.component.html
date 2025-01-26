@@ -1,0 +1,43 @@
+<h2 mat-dialog-title>Change trip details</h2>
+<mat-dialog-content [formGroup]="tripNoteForm">
+  <mat-form-field>
+    <mat-label>Title</mat-label>
+    <input matInput formControlName="title" />
+  </mat-form-field>
+  <mat-form-field>
+    <mat-label>Description</mat-label>
+    <input matInput formControlName="description" />
+  </mat-form-field>
+  <mat-form-field>
+    <mat-label>Leave date</mat-label>
+    <input matInput formControlName="fromDate" />
+  </mat-form-field>
+  <mat-form-field>
+    <mat-label>Return date</mat-label>
+    <input matInput formControlName="toDate" />
+  </mat-form-field>
+  <mat-form-field>
+    <mat-label>Rating</mat-label>
+    <input matInput formControlName="rating" />
+  </mat-form-field>
+
+  <mat-dialog-actions>
+    <button mat-dialog-close (click)="closeDialog()">Cancel</button>
+    <button
+      mat-dialog-close
+      cdkFocusInitial
+      *ngIf="!data.fromAdd"
+      (click)="saveDialog()"
+    >
+      Save
+    </button>
+    <button
+      mat-dialog-close
+      cdkFocusInitial
+      *ngIf="data.fromAdd"
+      (click)="addDialog()"
+    >
+      Add
+    </button>
+  </mat-dialog-actions>
+</mat-dialog-content>

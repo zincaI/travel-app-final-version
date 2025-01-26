@@ -1,0 +1,37 @@
+.content {
+    font-size: 1.3em;
+    font-weight: bold;
+    color: black;
+}
+
+.note {
+    background-color: #ffccd4;
+    border: 5px solid #ffbdc7;
+    padding: 10px 15px;
+    margin: 10px;
+    border-radius: 3px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    width: 250px;
+    height:200px;
+    text-align: left;
+}
+
+.note__title {
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: black;
+}
+
+.note__description {
+    font-size: 1em;
+    margin-bottom: 5px;
+    color: #6b6b6b;
+}
+
+.note__rating {
+    font-size: 0.9em;
+    color: #9e9e9e;
+}
+
+

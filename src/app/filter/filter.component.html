@@ -1,0 +1,18 @@
+<div id="container">
+    <section>
+        <label for="rating-min">Rating filters</label>
+        <input type="number" id="rating-min" name="rating-min" placeholder="Min Rating" min="1" max="5" [(ngModel)]="minRating">
+        <input type="number" id="rating-max" name="rating-max" placeholder="Max Rating" min="1" max="5" [(ngModel)]="maxRating">
+        <button class="ratingRange" (click)="onRatingFilter()">Apply filter</button>
+    </section>
+    <section>
+        <label for="rating-min">Date range filters</label>
+    <input type="date" id="rating-min" name="rating-min" placeholder="Min Rating" [(ngModel)]="minDate">
+    <input type="date" id="rating-max" name="rating-max" placeholder="Max Rating" [(ngModel)]="maxDate">
+    <button class="dateRange" (click)="onDateFilter()">Apply filter</button>
+</section>
+<section><button class="clearRanges" (click)="onCleanAll()">Clean all</button></section>
+
+</div>
+
+

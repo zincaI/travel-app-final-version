@@ -1,0 +1,26 @@
+#container {
+  width: 100%;
+  height: 100vh;
+  align-items: right;
+}
+
+section {
+  background-color: black;
+  height: 10vh;
+  width: 20vh;
+  margin-right: 10px;
+  padding: 10px;
+  color: pink;
+}
+
+input {
+  width: 100px;
+  background-color: black;
+  color: pink;
+}
+
+button {
+  background: pink;
+  border-radius: 50px;
+  width: 100px;
+}
