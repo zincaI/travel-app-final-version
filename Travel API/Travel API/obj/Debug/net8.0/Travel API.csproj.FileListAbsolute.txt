@@ -1,0 +1,40 @@
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\bin\Debug\net8.0\appsettings.json
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\bin\Debug\net8.0\Travel API.exe
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\bin\Debug\net8.0\Travel API.deps.json
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\bin\Debug\net8.0\Travel API.runtimeconfig.json
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\bin\Debug\net8.0\Travel API.dll
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\bin\Debug\net8.0\Travel API.pdb
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\bin\Debug\net8.0\DnsClient.dll
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\bin\Debug\net8.0\Snappier.dll
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\obj\Debug\net8.0\Travel API.csproj.AssemblyReference.cache
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\obj\Debug\net8.0\Travel API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\obj\Debug\net8.0\Travel API.AssemblyInfoInputs.cache
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\obj\Debug\net8.0\Travel API.AssemblyInfo.cs
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\obj\Debug\net8.0\Travel API.csproj.CoreCompileInputs.cache
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\obj\Debug\net8.0\Travel API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\obj\Debug\net8.0\Travel API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\obj\Debug\net8.0\staticwebassets\msbuild.Travel API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\obj\Debug\net8.0\staticwebassets\msbuild.build.Travel API.props
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Travel API.props
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Travel API.props
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\obj\Debug\net8.0\scopedcss\bundle\Travel API.styles.css
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\obj\Debug\net8.0\Travel API.csproj.Up2Date
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\obj\Debug\net8.0\Travel API.dll
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\obj\Debug\net8.0\refint\Travel API.dll
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\obj\Debug\net8.0\Travel API.pdb
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\obj\Debug\net8.0\Travel API.genruntimeconfig.cache
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\obj\Debug\net8.0\ref\Travel API.dll
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\izinca\Desktop\Tutorial app\Backend\Travel API\Travel API\bin\Debug\net8.0\Moq.dll
